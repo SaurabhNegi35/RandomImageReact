@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading {
+  text-align: center;
+  color: blueviolet;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px cornflowerblue;
+  margin: 50px 0px;
+  font-family: Josefin Sans, sans-serif;
+}
+
+.img_div {
+  display: flex;
+  justify-content: center;
+}
+
+.img_div img {
+  width: 250px;
+  height: 300px;
+
+}
