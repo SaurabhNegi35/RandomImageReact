@@ -1,5 +1,6 @@
 {
   "name": "demoapp",
+  "homepage": "https://saurabhnegi35.github.io/RandomImageReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
